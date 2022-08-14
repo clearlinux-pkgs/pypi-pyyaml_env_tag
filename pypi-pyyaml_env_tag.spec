@@ -4,7 +4,7 @@
 #
 Name     : pypi-pyyaml_env_tag
 Version  : 0.1
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/fb/8e/da1c6c58f751b70f8ceb1eb25bc25d524e8f14fe16edcce3f4e3ba08629c/pyyaml_env_tag-0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fb/8e/da1c6c58f751b70f8ceb1eb25bc25d524e8f14fe16edcce3f4e3ba08629c/pyyaml_env_tag-0.1.tar.gz
 Summary  : A custom YAML tag for referencing environment variables in YAML files.
