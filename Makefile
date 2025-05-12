@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyyaml_env_tag
-URL = https://files.pythonhosted.org/packages/fb/8e/da1c6c58f751b70f8ceb1eb25bc25d524e8f14fe16edcce3f4e3ba08629c/pyyaml_env_tag-0.1.tar.gz
+URL = https://files.pythonhosted.org/packages/c2/95/32c8c79d784552ed687c676924381c0dc88b2a0248b50a32f4b5ac0ba03c/pyyaml_env_tag-1.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
